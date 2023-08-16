@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9626b381547552703a5139cf3a037c90941b349f0005bb1ce65184458cac76f3"
+build_start_time: [1692219044, 237027000]
+build_end_time: [1692219046, 46164000]
+inputs:
+  "/Users/arjunprabhune/SwiftTraining/Pinch/Pinch/PinchApp.swift": [1691776127, 790712805]
+  "/Users/arjunprabhune/SwiftTraining/Pinch/Pinch/Screen/ContentView.swift": [1692219043, 948846992]
+  "/Users/arjunprabhune/SwiftTraining/Pinch/Pinch/View/ControlImageView.swift": [1692204481, 663136469]
+  "/Users/arjunprabhune/SwiftTraining/Pinch/Pinch/View/InfoPanelView.swift": [1692204345, 132977914]

@@ -1,0 +1,101 @@
+{
+  "buildCommand" : {
+    "command" : "preview"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2d4fd9952fecb2a37211557240cd3cec36e42b98811ef28f8e81dc706d0d5769",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Files",
+          "derivedDataPath" : "/Users/arjunprabhune/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/arjunprabhune/Library/Developer/Xcode/DerivedData/Pinch-gceejebcuwckrxekinknokwofvpq/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/arjunprabhune/Library/Developer/Xcode/DerivedData/Pinch-gceejebcuwckrxekinknokwofvpq/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex/Previews/Pinch/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex/Previews/Pinch/Intermediates.noindex",
+              "SYMROOT" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex/Previews/Pinch/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "46C26BA7-B819-4640-9510-DC4174784464",
+              "TARGET_DEVICE_MODEL" : "iPhone15,2",
+              "TARGET_DEVICE_OS_VERSION" : "16.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Pinch.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Files",
+      "derivedDataPath" : "/Users/arjunprabhune/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/arjunprabhune/Library/Developer/Xcode/DerivedData/Pinch-gceejebcuwckrxekinknokwofvpq/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/arjunprabhune/Library/Developer/Xcode/DerivedData/Pinch-gceejebcuwckrxekinknokwofvpq/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/arjunprabhune/SwiftTraining/Pinch/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "46C26BA7-B819-4640-9510-DC4174784464",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
