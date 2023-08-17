@@ -2,6 +2,9 @@
 
 "Pinch-and-Zoom" is a versatile image interaction app that offers an immersive experience for users who wish to dive deep into high-resolution images. With its suite of features, users can not only examine images in fine detail but also seamlessly navigate between different views and screens.
 
+Screenshot of the App: https://github.com/arjun-prabhune/Pinch-And-Zip/issues/1#issue-1855415629
+
+
 Key Features:
 
 1. Pinching and Zooming Actions:
