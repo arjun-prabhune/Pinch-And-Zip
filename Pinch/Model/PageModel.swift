@@ -11,3 +11,10 @@ struct Page: Identifiable {
     let id: Int
     let ImageName: String
 }
+
+
+extension Page {
+    var thumbnailName: String {
+        return "thumb-" + ImageName
+    }
+}
